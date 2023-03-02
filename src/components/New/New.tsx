@@ -10,7 +10,5 @@ import React from 'react';
  */
 
 export const New = () => {
-  return (
-    <h2>New MF</h2>
-  )
+  return <h2>New MF</h2>;
 };
